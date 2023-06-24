@@ -1,0 +1,23 @@
+[33mcommit 78e1b34e5d15da615baaf4e46542025ad48b66c5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Leonel Caldera <leoandres146@gmail.com>
+Date:   Sat Jun 24 19:02:16 2023 -0300
+
+    Se añade un comentario al cambio del valor por defecto
+
+[33mcommit 8be4db1c7663b9abe77c506b3ec16164063bcdc6[m
+Author: Leonel Caldera <leoandres146@gmail.com>
+Date:   Sat Jun 24 18:57:16 2023 -0300
+
+    Se añade un parametro por defecto
+
+[33mcommit 6c61e9578fc7858a047c71db55dab9fd961af64a[m
+Author: Leonel Caldera <leoandres146@gmail.com>
+Date:   Sat Jun 24 18:50:36 2023 -0300
+
+    Parametrizacion del programa
+
+[33mcommit 706b2295b2e331d230c452f74d948f4e0f0e9991[m
+Author: Leonel Caldera <leoandres146@gmail.com>
+Date:   Sat Jun 24 18:45:47 2023 -0300
+
+    Creacion del proyecto

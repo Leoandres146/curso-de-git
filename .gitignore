@@ -1,0 +1,6 @@
+# .gitignore
+dir1/ 
+!dir1/info.txt
+dir2/*.tx
+dir3/**/*.txt
+*.o
