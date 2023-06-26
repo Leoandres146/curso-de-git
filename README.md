@@ -1,5 +1,5 @@
-# Curso de GIT, Junio
+# Curso de GIT, 2023
 
 Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
 
-Desarrollado por Leonel Caldera
+Desarrollado por Leonel Caldera.
